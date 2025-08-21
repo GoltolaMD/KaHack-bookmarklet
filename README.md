@@ -1,14 +1,11 @@
-# KaHack!  
+# KahootTools  
 
 ## Descrição  
-Este é um hack para Kahoot, também conhecido como cheat, feito para o navegador Chrome e Tampermonkey. Desenvolvido em JavaScript puro e funciona na maioria dos navegadores.  
+Este é um hack para Kahoot, também conhecido como cheat, feito para o navegador bookmarklet Desenvolvido em JavaScript puro e funciona na maioria dos navegadores.  
 
 ## Instruções  
 1. Abra o arquivo **KaHack!.user.js**.  
-2. Clique em **raw** para instalar o script no Tampermonkey ou copie e cole-o no console.  
-   - Para abrir o console pressione **Ctrl+Shift+i** (isso abre a aba de desenvolvedor).  
-   - Vá até a aba **Console**, cole o código e pressione **Enter** para executá-lo.  
-3. Digite o **ID do quiz** (ele aparece na tela do host).  
+2. Digite o **ID do quiz** (ele aparece na tela do host).  
    - Se a caixa do ID ainda estiver vermelha após digitar o ID correto, significa que o Kahoot é privado e este hack não pode ser usado nele.  
 
 ![image](https://github.com/jokeri2222/KaHack/assets/110989057/bcb3e365-b51e-42fd-9b44-bab8bcfeeda4)  
