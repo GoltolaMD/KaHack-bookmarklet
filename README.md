@@ -21,12 +21,6 @@ Este é um hack para Kahoot, também conhecido como cheat, feito para o navegado
 > Suporta apenas perguntas de quiz e múltipla escolha.  
 > Respostas digitadas e outros tipos ainda não são suportados.  
 
-Atalhos:  
-- **Alt+h** → Oculta o menu  
-- **Alt+x** → Encerra o script  
-- O menu pode ser arrastado, minimizado e fechado.  
-- Fechar o cheat encerra a execução (não responde mais automaticamente nem mostra as respostas).  
-
 ![image](https://github.com/jokeri2222/KaHack/assets/110989057/5229a862-ca1e-41c7-af01-61a6ae30f8da)  
 
 ## Créditos  
